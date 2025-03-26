@@ -1,0 +1,2 @@
+C:\Users\v\Desktop\Saját\kopaszBela\Dolgozat\DolgozatTesztEsetek_KomócziBence\TesztEsetek\obj\Debug\TesztEsetek.csproj.AssemblyReference.cache
+C:\Users\v\Desktop\Saját\kopaszBela\Dolgozat\DolgozatTesztEsetek_KomócziBence\TesztEsetek\obj\Debug\TesztEsetek.csproj.CoreCompileInputs.cache

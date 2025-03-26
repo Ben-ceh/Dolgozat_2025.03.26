@@ -1,0 +1,3 @@
+C:\Users\v\Desktop\Saját\kopaszBela\Dolgozat\DolgozatTesztEsetek_KomócziBence\1.feladat\obj\Debug\Egysegteszt_KomócziBence.csproj.AssemblyReference.cache
+C:\Users\v\Desktop\Saját\kopaszBela\Dolgozat\DolgozatTesztEsetek_KomócziBence\1.feladat\obj\Debug\Egysegteszt_KomócziBence.csproj.SuggestedBindingRedirects.cache
+C:\Users\v\Desktop\Saját\kopaszBela\Dolgozat\DolgozatTesztEsetek_KomócziBence\1.feladat\obj\Debug\Egysegteszt_KomócziBence.csproj.CoreCompileInputs.cache

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32421.90
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Egysegteszt_KomócziBence", "1.feladat\Egysegteszt_KomócziBence.csproj", "{76D415E4-EFC4-4144-93C5-FA97CDD9A9D3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TesztEsetek", "TesztEsetek\TesztEsetek.csproj", "{4AAA30CE-0AC9-4E51-AFAC-47CB3694F30E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{76D415E4-EFC4-4144-93C5-FA97CDD9A9D3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{76D415E4-EFC4-4144-93C5-FA97CDD9A9D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{76D415E4-EFC4-4144-93C5-FA97CDD9A9D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{76D415E4-EFC4-4144-93C5-FA97CDD9A9D3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4AAA30CE-0AC9-4E51-AFAC-47CB3694F30E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4AAA30CE-0AC9-4E51-AFAC-47CB3694F30E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4AAA30CE-0AC9-4E51-AFAC-47CB3694F30E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4AAA30CE-0AC9-4E51-AFAC-47CB3694F30E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {92B38B89-DE5B-4DC4-BC64-381783611CBB}
+	EndGlobalSection
+EndGlobal
